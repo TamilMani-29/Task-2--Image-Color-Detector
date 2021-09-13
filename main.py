@@ -1,3 +1,14 @@
+''' 
+
+The Sparks Foundation Internship Program
+
+Author: Tamil Mani P
+Task2: Color Identification in Images
+Objective: To implement an Image Color Detector which identifies all the colors in an Image or Video.
+
+'''
+
+
 #import required dependencies
 import cv2
 import pandas as pd
